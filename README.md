@@ -1,7 +1,8 @@
 # 🎮 Welcome to izu's Profile
 
 <!-- GitHubのダークモードに溶け込む深いグレーのヘッダー -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1f2328&secondaryColor=0d1117&height=180&section=header&text=izu%20/%20Game%20Development%20Student&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=1f2328\&secondaryColor=0d1117\&height=180\&section=header\&text=izu%20/%20Game%20Development%20Student\&fontSize=40\&fontColor=ffffff\&animation=fadeIn)
 
 <p align="center">
   <strong>大学で情報システムを学びながら、3Dゲーム開発に挑戦しています</strong>
@@ -16,21 +17,24 @@
 
 ## ⚡ Current Projects（現在勉強・制作中のもの）
 
-### 🌐 [ソウルライクフレーム分析ウェブ](htts://withberry1717-sudo.github.io/soulslike_frame_analysis_web/) `WIP`
+### 🌐 [ソウルライクフレーム分析ウェブ](https://withberry1717-sudo.github.io/soulslike_frame_analysis_web/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_2026) `WIP`
+
 > **アクションゲームの動きを視覚的に理解するための検証・分析用Webツール**
-> *   アクションや格闘ゲーム特有の「気持ちよさ」がどう作られているのか、データ面から学ぶために開発を始めました。
-> *   現在、少しずつ機能を拡張しながら絶賛制作中です。
+>
+> * アクションゲーム特有の「気持ちよさ」がどう作られているのか、データ面から学ぶために開発を始めました。
+> * 現在、少しずつ機能を拡張しながら制作中です。
 
 ### 📝 新作Unreal Engineアクションゲーム `Planning`
+
 > **次回作（Unreal Engineでの3Dアクション制作）に向けた個人企画書**
-> *   「まずはしっかり形にする」ことを目標に、本編の文章構成を終わらせた段階です。
-> *   現在は、よりイメージが伝わるようにレイアウト調整やイラストの挿入を進めています。
+>
+> * 「まずはしっかり形にする」ことを目標に、本編の文章構成を終わらせた段階です。
+> * 現在は、よりイメージが伝わるようにレイアウト調整やイラストの挿入を進めています。
 
 ---
 
 ## 🌐 Portfolio Hub
 
-これまでに手探りで制作したゲーム（Monsterdestroyerなど）や、過去の活動実績は以下のポートフォリオサイトにまとめています。
+これまでに手探りで制作したゲーム「Monster Destroyer」や、ゲーム分析、制作プロセスなどを以下のポートフォリオサイトにまとめています。
 
-```🔑
-[https://withberry1717-sudo.github.io/monster-portfolio-site/](https://withberry1717-sudo.github.io/monster-portfolio-site/](https://withberry1717-sudo.github.io/game-planning-introduction-site/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_2026)
+### 🔑 [ポートフォリオサイトを見る](https://withberry1717-sudo.github.io/game-planning-introduction-site/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_2026)
