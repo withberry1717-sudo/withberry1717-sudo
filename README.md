@@ -37,4 +37,4 @@
 
 これまでに手探りで制作したゲーム「Monster Destroyer」や、ゲーム分析、制作プロセスなどを以下のポートフォリオサイトにまとめています。
 
-### 🔑 [ポートフォリオサイトを見る](https://withberry1717-sudo.github.io/game-planning-introduction-site/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_2026)
+### 🔑 [ポートフォリオサイトを見る](https://withberry1717-sudo.github.io/game-planning-introduction-site/?utm_source=github&utm_medium=proile&utm_campaign=portfolio_2026)
