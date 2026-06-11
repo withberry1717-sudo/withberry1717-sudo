@@ -33,4 +33,4 @@
 これまでに手探りで制作したゲーム（Monsterdestroyerなど）や、過去の活動実績は以下のポートフォリオサイトにまとめています。
 
 ```🔑
-[https://withberry1717-sudo.github.io/monster-portfolio-site/](https://withberry1717-sudo.github.io/monster-portfolio-site/)
+[https://withberry1717-sudo.github.io/monster-portfolio-site/](https://withberry1717-sudo.github.io/monster-portfolio-site/](https://withberry1717-sudo.github.io/game-planning-introduction-site/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_2026)
