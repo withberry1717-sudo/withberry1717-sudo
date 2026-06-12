@@ -17,7 +17,7 @@
 
 ## ⚡ Current Projects（現在勉強・制作中のもの）
 
-### 🌐 [ソウルライクフレーム分析ウェブ](https://withberry1717-sudo.github.io/soulslike_frame_analysis_web/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_2026) `WIP`
+### 🌐 [ソウルライクフレーム分析ウェブ](https://withberry1717-sudo.github.io/soulslike_frame_analysis_web/?utm_sourcegithub&utm_medium=profile&utm_campaign=portfolio_2026) `WIP`
 
 > **アクションゲームの動きを視覚的に理解するための検証・分析用Webツール**
 >
