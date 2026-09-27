@@ -1,4 +1,4 @@
-# 🎮 Welcome to izu's Profile
+# 🎮 Welcome to my Profile
 
 <!-- GitHubのダークモードに溶け込む深いグレーのヘッダー -->
 
